@@ -1,0 +1,146 @@
+My CV as Engineer
+huguichu@gmail.com · (+54) 911 30220444 · boahstudio.com/in/hballesteros/ · github.com/hballesteros
+HUGO ALEJANDRO BALLESTEROS
+I'm a experienced professional with 18+ years of expertise in nuclear engineering and web application design. My background
+encompasses nuclear thermal hydraulics, reactor core design, computational fluid dynamic and extensive work at CNEA and
+Nucleoeléctrica Argentina S.A. Alongside, I've excelled as a front-end and back-end web developer, mastering PHP, MySQL, C++
+and delivering solutions for major companies like Microsoft's MilelQ and OneLogin. Leveraging my proficiency in JavaScript,
+React.js, Node.js, and tools like Git, Docker, etc, I bring a unique blend of technical acumen and innovative problem-solving. This
+diverse skill set, combined with my passion for programming, positions me as an ideal candidate to contribute to your team's
+success and growth.
+My CV as Engineer
+1
+MOST RECENT WORK EXPERIENCE
+HEAD OF CFD DIVISION
+Nucleoeléctrica Argentina S.A., Villa Martelli, Buenos Aires,
+July 2015 - Present
+• Led a dynamic team at Nucleoeléctrica, focusing on thermal-hydraulic nuclear core design and computational fluid dynamics
+(CFD) calculations.
+Collaborated effectively to overcome engineering challenges, achieving significant advancements in thermal-hydraulic design
+and CFD simulations for nuclear power plants.
+• Utilized expertise in programming languages, including Fortran, C++, Perl, Python, and JavaScript, to develop specialized
+thermohydraulic software for the nuclear process computer, enabling precise evaluation of thermal-hydraulic parameters and
+energy balances through signal readings.
+• Contributed to enhancing safety and efficiency in nuclear power operations through the implementation of advanced
+computational tools and programming skills.
+SENIOR ENGINNERING SPECIALIST
+Nucleoeléctrica Argentina S.A., Lima, Buenos Aires,
+January 2008 - July 2015
+Thermal-hydraulic nuclear design core for Atucha 2 Nuclear Power Plant during construccion.
+My CV as Engineer
+2
+CFD ENGINEER
+Contributions to the final safety report (FSAR), specifically in Chapter 4.4, detailing the thermal-hydraulic design.
+Computational Fluid Dynamics (CFD) calculations, encompassing various tasks such as modeling the dispersion of the
+boron cloud in the moderator.
+Comisión Nacional de Energía Atómica, Villa Martelli, Buenos Aires,
+August 2005 - December 2007
+• Thermal-hydraulic nuclear design core for Atucha 2 Nuclear Power Plant during construccion.
+• Contributions to the final safety report (FSAR), specifically in Chapter 4.4, detailing the thermal-hydr
+SENIOR SOFTWARE DEVELOPER
+Flinders University, Adelaide (remote from Buenos Aires)
+July 2022 - January 2023
+Applying Fluid Dynamics Analysis and Species Transport to Nuclear Power Plants through the Use of CFD Simulation
+Codes.
+●
+SENIOR FULL STACK DEVELOPER
+boahstudio, Olivos, Buenos Aires
+January 2013 - Present
+My CV as Engineer
+3
+●
+SKILLS
+Developed and designed custom websites, blogs, and large-scale web applications for renowned clients, including MilelQ,
+OneLogin, goAct, Flinders University, and Ciclope Festival.
+Elevated user experiences by leveraging React JS with Redux Toolkit, resulting in seamless web applications.
+AS AN ENGINNER
+CFD
+• ANSYS CFX
+• ANSYS Fluent
+• OPEN FOAM
+AS A PROGRAMMER
+BACKEND
+• PHP
+• Laravel 10
+MySQL
+●
+My CV as Engineer
+REACTOR CODES
+●
+COBRA 3CP
+• RELAP
+• GOTHIC
+FRONTEND
+• CSS
+• HTML
+Javascript
+OTHER
+• Matlab
+• ModeFrontier
+OTHER
+• C/C++
+• Fortran
+●
+Perl
+4
+MongoDB
+PostgreSQL
+Express
+• RESTful APIs
+GraphQL
+Node.js
+●
+●
+EDUCATION
+jQuery
+●
+• Typescript
+React.js
+●
+My CV as Engineer
+●
+• Next.js
+• Astro
+●
+Qwik
+Object Oriented Programming in C++
+February 2005 - June 2005 [SC de Bariloche, Argentina]
+(organized by Instituto Balseiro)
+Python
+. Data Science
+• Git
+Nuclear Engineer, Instituto Balseiro, CNEA and Universidad Nacional de Cuyo
+February 1999 - June 2005 [SC de Bariloche, Argentina]
+. Github / Bitbucket / GitLab
+Docker
+Jest / Vitest / Google Test
+5
+Training course on Leadership in Nuclear Technology, Swedish Centre for Nuclear
+Technology (SCNT)
+July 2006 - August 2006 [Stockholm, Sweden]
+(organized by the World Nuclear Association and the International Atomic Energy Agency)
+ANSYS - Design Modeler - Advanced Turbulence - Multiphase Systems
+Februaty to March 2009 [Rio de Janeiro, Brasil]
+(organized by Enginnering Simulation and Scientific Software (ESSS))
+ModeFrontier Course (Multidisciplinary Optimization)
+November 2011 [ITBA, Buenos Aires]
+(organized by Enginnering Simulation and Scientific Software (ESSS))
+ANSYS - Flow Modeling in Turbomachinery
+August 2011 [Villa Allende, Córdoba]
+My CV as Engineer
+6
+(organized by Enginnering Simulation and Scientific Software (ESSS))
+ANSYS - Structural Simulation
+December 2017 [Lima, Buenos Aires]
+(organized by Enginnering Simulation and Scientific Software (ESSS))
+Program Operator for Web Design
+March 2011 - December 2011 [Instituto Argentino de Computación]
+Master de PHP: PHP and MySQL Advanced Programming
+Marzo 2011 - September 2011 [Online]
+(organized by Aula Formativa Soluciones Online S.L. C.I.F. B- 85609451)
+LANGUAGES
+Spanish and English.
+My CV as Engineer
+7
+My CV as Engineer
+8
